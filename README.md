@@ -43,7 +43,8 @@ Para startar o projeto:
 ---
 ## Links
 [GitHub](https://github.com/MatheusLotRizzo/projeto-sds3) - GitHub do projeto <br>
-[Aplicação](https://dsvendas-matheusrizzo.netlify.app/) - Aplicação rodando através do netlify (frontend) e heroku (backend)
+[Aplicação](https://dsvendas-matheusrizzo.netlify.app/) - Aplicação rodando através do netlify (frontend) e heroku (backend). <br>
+[Startar Backend](https://sds3-matheusrizzo.herokuapp.com/) - Caso os dados não estejam aparecendo, acesse o link do heroku para startar o backend, quando aparecer a mensagem "Whitelabel Error Page", pode fechar a aba e abrir o link da aplicação.
 
 ---
 ## Author
